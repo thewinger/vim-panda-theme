@@ -1,0 +1,10 @@
+name: 'vim-panda'
+version: '1.0.0'
+license: 'MIT'
+author: 'Alejandro Camara'
+url: ''
+description: 'Panda colorscheme for VIM'
+colorschemes:
+  - name: vim-panda
+    background: 'dark'
+    palette: vim-panda
